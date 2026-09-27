@@ -47,4 +47,16 @@ product-based company interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/harika-vanum/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/harika-vanum/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/harika-vanum/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/harika-vanum/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
