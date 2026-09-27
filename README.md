@@ -32,3 +32,19 @@ product-based company interview preparation.
 - Master important DSA patterns
 - Improve Java problem-solving skills
 - Prepare for product-based company interviews
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/harika-vanum/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/harika-vanum/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/harika-vanum/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
+<!---LeetCode Topics End-->
