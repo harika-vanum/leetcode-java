@@ -7,7 +7,7 @@ product-based company interview preparation.
 
 | Pattern | Solved |
 |---|---:|
-| Arrays | 1 |
+| Arrays | 3 |
 | Strings | 2 |
 | HashMap / HashSet | 0 |
 | Sliding Window | 0 |
