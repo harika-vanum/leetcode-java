@@ -38,6 +38,7 @@ product-based company interview preparation.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/harika-vanum/leetcode-java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harika-vanum/leetcode-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/harika-vanum/leetcode-java/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
@@ -53,6 +54,7 @@ product-based company interview preparation.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/harika-vanum/leetcode-java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/harika-vanum/leetcode-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/harika-vanum/leetcode-java/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
@@ -67,4 +69,8 @@ product-based company interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harika-vanum/leetcode-java/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/harika-vanum/leetcode-java/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
